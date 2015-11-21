@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Health Watch\Health Watch.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Health Watch\MainActivity.cs">
+    <Files>
+      <File FileName="Health Watch\MainActivity.cs" Line="20" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Health_220Watch AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

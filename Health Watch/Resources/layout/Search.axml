@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light">
+    <ImageView
+        android:src="@drawable/hwlogo"
+        android:layout_width="match_parent"
+        android:layout_height="126.0dp"
+        android:id="@+id/imageView1"
+        android:layout_marginBottom="41.0dp" />
+    <EditText
+        android:layout_width="105.5dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText1"
+        android:text="Post Code"
+        android:layout_marginRight="24.0dp"
+        android:clickable="false" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText2"
+        android:text="The Post code will be entered here"
+        android:clickable="true"
+        android:layout_marginBottom="18.5dp" />
+    <EditText
+        android:layout_width="91.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText3"
+        android:text="Address " />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText4"
+        android:text="This is where the address will be entered"
+        android:layout_marginBottom="24.5dp" />
+    <EditText
+        android:layout_width="179.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText5"
+        android:text="Display All Centres " />
+    <EditText
+        android:layout_width="382.5dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText5"
+        android:text="All of the Centres will be displayed here in a drop down." />
+</LinearLayout>

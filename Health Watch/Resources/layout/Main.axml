@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/background_light">
+    <ImageView
+        android:src="@drawable/hwlogo"
+        android:layout_width="match_parent"
+        android:layout_height="161.5dp"
+        android:id="@+id/imageView1" />
+    <Button
+        android:id="@+id/Search"
+        android:layout_width="162.5dp"
+        android:layout_height="wrap_content"
+        android:text="Search A Service"
+        android:layout_marginLeft="119.0dp"
+        android:layout_marginRight="601.5dp"
+        android:layout_marginBottom="29.0dp" />
+    <Button
+        android:id="@+id/Rate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Rate A Service"
+        android:layout_marginLeft="119.0dp"
+        android:layout_marginRight="101.5dp"
+        android:layout_marginBottom="23.5dp" />
+    <Button
+        android:id="@+id/News"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="News "
+        android:layout_marginLeft="119.0dp"
+        android:layout_marginRight="101.5dp"
+        android:layout_marginBottom="29.5dp" />
+    <Button
+        android:id="@+id/Kids"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Kids Zone"
+        android:layout_marginLeft="119.0dp"
+        android:layout_marginRight="101.5dp" />
+</LinearLayout>
