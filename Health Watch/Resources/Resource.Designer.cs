@@ -82,16 +82,7 @@ namespace Health_Watch
 			public const int editText1 = 2131099653;
 			
 			// aapt resource value: 0x7f060006
-			public const int editText2 = 2131099654;
-			
-			// aapt resource value: 0x7f060007
-			public const int editText3 = 2131099655;
-			
-			// aapt resource value: 0x7f060008
-			public const int editText4 = 2131099656;
-			
-			// aapt resource value: 0x7f060009
-			public const int editText5 = 2131099657;
+			public const int editText3 = 2131099654;
 			
 			// aapt resource value: 0x7f060000
 			public const int imageView1 = 2131099648;
