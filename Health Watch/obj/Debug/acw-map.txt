@@ -2,6 +2,14 @@ Health_Watch.Kids, Health Watch;md513ba805d76ab5d8442abe88aa03f8f89.Kids
 Health_Watch.Kids, Health Watch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md513ba805d76ab5d8442abe88aa03f8f89.Kids
 Health_Watch.Kids;md513ba805d76ab5d8442abe88aa03f8f89.Kids
 health_watch.Kids;md513ba805d76ab5d8442abe88aa03f8f89.Kids
+Health_Watch.MainActivity, Health Watch;md513ba805d76ab5d8442abe88aa03f8f89.MainActivity
+Health_Watch.MainActivity, Health Watch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md513ba805d76ab5d8442abe88aa03f8f89.MainActivity
+Health_Watch.MainActivity;md513ba805d76ab5d8442abe88aa03f8f89.MainActivity
+health_watch.MainActivity;md513ba805d76ab5d8442abe88aa03f8f89.MainActivity
+Health_Watch.DetailActivity, Health Watch;md513ba805d76ab5d8442abe88aa03f8f89.DetailActivity
+Health_Watch.DetailActivity, Health Watch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md513ba805d76ab5d8442abe88aa03f8f89.DetailActivity
+Health_Watch.DetailActivity;md513ba805d76ab5d8442abe88aa03f8f89.DetailActivity
+health_watch.DetailActivity;md513ba805d76ab5d8442abe88aa03f8f89.DetailActivity
 Health_Watch.News, Health Watch;md513ba805d76ab5d8442abe88aa03f8f89.News
 Health_Watch.News, Health Watch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md513ba805d76ab5d8442abe88aa03f8f89.News
 Health_Watch.News;md513ba805d76ab5d8442abe88aa03f8f89.News

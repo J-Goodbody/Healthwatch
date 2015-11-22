@@ -37,5 +37,6 @@ E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\icon.png
 E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\hwlogo.png
 E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\R.cs.flag
 E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\uploadflags.txt
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\stockbackground.png
 E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\Health Watch.dll.mdb
 E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health Watch.dll.mdb
