@@ -53,6 +53,9 @@ namespace Health_Watch
 			// aapt resource value: 0x7f020002
 			public const int monoandroidsplash = 2130837506;
 			
+			// aapt resource value: 0x7f020003
+			public const int StockBackGround = 2130837507;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
