@@ -18,3 +18,24 @@ E:\Health Watch App C#\Health Watch\Health Watch\obj\Debug\R.cs.flag
 E:\Health Watch App C#\Health Watch\Health Watch\obj\Debug\uploadflags.txt
 E:\Health Watch App C#\Health Watch\Health Watch\obj\Debug\Health Watch.dll.mdb
 E:\Health Watch App C#\Health Watch\Health Watch\bin\Debug\Health Watch.dll.mdb
+E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health Watch.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health Watch.pdb
+E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health_Watch.Health_Watch.apk
+E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health_Watch.Health_Watch-Signed.apk
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\Health Watch.csprojResolveAssemblyReference.cache
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\monoandroidsplash.png
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\values\styles.xml
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\Health Watch.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\Health Watch.pdb
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\android\bin\Health_Watch.Health_Watch.apk
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\layout\search.xml
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\layout\news.xml
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\layout\rate.xml
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\layout\main.xml
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\values\strings.xml
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\icon.png
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\hwlogo.png
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\R.cs.flag
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\uploadflags.txt
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\Health Watch.dll.mdb
+E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health Watch.dll.mdb
