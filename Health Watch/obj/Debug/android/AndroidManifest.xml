@@ -6,7 +6,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="Health_Watch" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="Kids" android:name="md513ba805d76ab5d8442abe88aa03f8f89.Kids" />
-    <activity android:icon="@drawable/stockbackground" android:label="HelloXamarin.Android" android:name="md513ba805d76ab5d8442abe88aa03f8f89.MainActivity" />
+    <activity android:icon="@drawable/stockbackground" android:label="Health_Watch.Android" android:name="md513ba805d76ab5d8442abe88aa03f8f89.MainActivity" />
     <activity android:label="DetailActivity" android:name="md513ba805d76ab5d8442abe88aa03f8f89.DetailActivity" />
     <activity android:label="News" android:name="md513ba805d76ab5d8442abe88aa03f8f89.News" />
     <activity android:label="Rate" android:name="md513ba805d76ab5d8442abe88aa03f8f89.Rate" />
@@ -19,7 +19,7 @@
         <category android:name="mono.android.intent.category.SEPPUKU.Health_Watch.Health_Watch" />
       </intent-filter>
     </receiver>
-    <activity android:icon="@drawable/stockbackground" android:label="HelloXamarin.Android" android:name="health_watch.health_watch.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+    <activity android:icon="@drawable/stockbackground" android:label="Health_Watch.Android" android:name="health_watch.health_watch.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
