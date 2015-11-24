@@ -57,5 +57,6 @@ C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\res\drawable
 C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\R.cs.flag
 C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\uploadflags.txt
 E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\hw bromley and lewisham.jpg
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\res\drawable\hw_pattern.png
 E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\Health Watch.dll.mdb
 E:\Health Watch App C#\Healthwatch\Health Watch\bin\Debug\Health Watch.dll.mdb

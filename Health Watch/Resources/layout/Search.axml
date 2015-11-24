@@ -15,5 +15,14 @@
         android:layout_width="91.0dp"
         android:layout_height="wrap_content"
         android:id="@+id/editText3"
-        android:text="Address " />
+        android:text="Address "
+        android:clickable="false"
+        android:layout_marginRight="24.0dp" />
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:textColor="@android:color/black" />
 </LinearLayout>
