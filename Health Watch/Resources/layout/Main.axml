@@ -7,7 +7,7 @@
     <ImageView
         android:src="@drawable/hwlogo"
         android:layout_width="match_parent"
-        android:layout_height="161.5dp"
+        android:layout_height="116.5dp"
         android:id="@+id/imageView1" />
     <Button
         android:id="@+id/Search"

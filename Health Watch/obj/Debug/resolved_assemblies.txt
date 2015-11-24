@@ -1,7 +1,9 @@
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\Health Watch.dll
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\mscorlib.dll
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\System.Core.dll
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\System.dll
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\System.Xml.dll
-C:\Users\Ben\Desktop\HEALTHWATCH\Healthwatch\Health Watch\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\Health Watch.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\Mono.Android.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\mscorlib.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\System.Core.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\System.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\System.Xml.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\Health Watch App C#\Healthwatch\Health Watch\obj\Debug\assemblies\System.ServiceModel.Internals.dll
