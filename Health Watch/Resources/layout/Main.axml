@@ -15,8 +15,8 @@
         android:layout_height="wrap_content"
         android:text="Search A Service"
         android:layout_marginLeft="119.0dp"
-        android:layout_marginRight="601.5dp"
-        android:layout_marginBottom="29.0dp" />
+        android:layout_marginRight="101dp"
+        android:layout_marginBottom="30dp" />
     <Button
         android:id="@+id/Rate"
         android:layout_width="fill_parent"
@@ -24,7 +24,7 @@
         android:text="Rate A Service"
         android:layout_marginLeft="119.0dp"
         android:layout_marginRight="101.5dp"
-        android:layout_marginBottom="23.5dp" />
+        android:layout_marginBottom="30dp" />
     <Button
         android:id="@+id/News"
         android:layout_width="fill_parent"
@@ -32,7 +32,7 @@
         android:text="News "
         android:layout_marginLeft="119.0dp"
         android:layout_marginRight="101.5dp"
-        android:layout_marginBottom="29.5dp" />
+        android:layout_marginBottom="30dp" />
     <Button
         android:id="@+id/Kids"
         android:layout_width="fill_parent"

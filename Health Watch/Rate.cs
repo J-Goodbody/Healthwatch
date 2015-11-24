@@ -19,6 +19,8 @@ namespace Health_Watch
         {
             base.OnCreate(savedInstanceState);
 
+            SetContentView(Resource.Layout.Rate);
+
             // Create your application here
         }
     }

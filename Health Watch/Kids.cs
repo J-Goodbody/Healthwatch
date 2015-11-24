@@ -19,6 +19,7 @@ namespace Health_Watch
         {
             base.OnCreate(savedInstanceState);
 
+           
             // Create your application here
         }
     }

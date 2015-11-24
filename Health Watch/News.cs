@@ -19,6 +19,7 @@ namespace Health_Watch
         {
             base.OnCreate(savedInstanceState);
 
+            SetContentView(Resource.Layout.News);
             // Create your application here
         }
     }
