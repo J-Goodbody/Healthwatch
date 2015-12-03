@@ -1,0 +1,20 @@
+TestApp.Kids, TestApp;md5cf27010e14af20e69784a5a54418b85f.Kids
+TestApp.Kids, TestApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf27010e14af20e69784a5a54418b85f.Kids
+TestApp.Kids;md5cf27010e14af20e69784a5a54418b85f.Kids
+testapp.Kids;md5cf27010e14af20e69784a5a54418b85f.Kids
+TestApp.News, TestApp;md5cf27010e14af20e69784a5a54418b85f.News
+TestApp.News, TestApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf27010e14af20e69784a5a54418b85f.News
+TestApp.News;md5cf27010e14af20e69784a5a54418b85f.News
+testapp.News;md5cf27010e14af20e69784a5a54418b85f.News
+TestApp.Search, TestApp;md5cf27010e14af20e69784a5a54418b85f.Search
+TestApp.Search, TestApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf27010e14af20e69784a5a54418b85f.Search
+TestApp.Search;md5cf27010e14af20e69784a5a54418b85f.Search
+testapp.Search;md5cf27010e14af20e69784a5a54418b85f.Search
+TestApp.Rate, TestApp;md5cf27010e14af20e69784a5a54418b85f.Rate
+TestApp.Rate, TestApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf27010e14af20e69784a5a54418b85f.Rate
+TestApp.Rate;md5cf27010e14af20e69784a5a54418b85f.Rate
+testapp.Rate;md5cf27010e14af20e69784a5a54418b85f.Rate
+TestApp.MainActivity, TestApp;md5cf27010e14af20e69784a5a54418b85f.MainActivity
+TestApp.MainActivity, TestApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf27010e14af20e69784a5a54418b85f.MainActivity
+TestApp.MainActivity;md5cf27010e14af20e69784a5a54418b85f.MainActivity
+testapp.MainActivity;md5cf27010e14af20e69784a5a54418b85f.MainActivity

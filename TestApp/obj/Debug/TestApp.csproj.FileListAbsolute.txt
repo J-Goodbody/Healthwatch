@@ -1,0 +1,17 @@
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\bin\Debug\TestApp.dll
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\bin\Debug\TestApp.TestApp.apk
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\bin\Debug\TestApp.TestApp-Signed.apk
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\res\values\styles.xml
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\TestApp.dll
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\android\bin\TestApp.TestApp.apk
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\res\layout\main.xml
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\res\values\strings.xml
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\res\drawable\icon.png
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\R.cs.flag
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\uploadflags.txt
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\obj\Debug\TestApp.dll.mdb
+C:\Users\harri\Desktop\testApp\TestApp\TestApp\bin\Debug\TestApp.dll.mdb
